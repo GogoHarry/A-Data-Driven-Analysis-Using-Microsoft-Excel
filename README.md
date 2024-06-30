@@ -1,5 +1,10 @@
 ## A Data-Driven Analysis Using Microsoft Excel
 
+### Project Overview
+
+![Dashboard](https://github.com/GogoHarry/A-Data-Driven-Analysis-Using-Microsoft-Excel/assets/82883963/5468e4c9-84ac-438a-b797-d40d0a333fde)
+
+
 This project aims to develop a comprehensive sales performance dashboard using Microsoft Excel. The dashboard will provide insights into sales trends, product performance, and regional sales patterns, enabling informed decision-making for improving sales strategies and optimizing business growth.
 
 ### Data Analysis Methodology
